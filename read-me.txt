@@ -1,0 +1,1 @@
+Bảng Order hiện tại chưa INSERT được, vì khác định dạng ngày tháng với bên SQL Server
